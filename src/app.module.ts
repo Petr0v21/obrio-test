@@ -29,7 +29,5 @@ import { FilesModule } from './files/files.module';
     }),
     FilesModule,
   ],
-  controllers: [],
-  providers: [],
 })
 export class AppModule {}
