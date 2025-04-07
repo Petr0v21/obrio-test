@@ -20,8 +20,8 @@
 
 Убедитесь, что у вас установлены:
 
-- [Docker](https://www.docker.com/) (Моя версия Docker version 24.0.5, build ced0996)
-- [Docker Compose](https://docs.docker.com/compose/) (Моя версия docker-compose version 1.29.2, build 5becea4c)
+- [Docker](https://www.docker.com/) (Моя версия Docker version 24.0.5)
+- [Docker Compose](https://docs.docker.com/compose/) (Моя версия docker-compose version 1.29.2)
 
 Затем выполните:
 
