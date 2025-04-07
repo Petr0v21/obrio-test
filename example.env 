@@ -1,0 +1,5 @@
+DATABASE_URL="postgresql://root:root@postgres:5432/obrio?schema=public" // если поднимаете без докера укажите свой url
+GOOGLE_CLIENT_EMAIL="REAL_GOOGLE_CLIENT_EMAIL"
+GOOGLE_PRIVATE_KEY="REAL_GOOGLE_PRIVATE_KEY"
+REDIS_HOST="redis" // если поднимаете без докера укажите свой host
+REDIS_PORT=6379
